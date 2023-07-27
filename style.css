@@ -1,0 +1,66 @@
+#chat,#sss,#send,#recive{
+    display: none;
+}
+  #input,#btn{
+    width: 60vh;
+    height: 5vh;
+    font-size: 20px;
+    background-color: aqua;
+    
+  }
+
+  #take{
+    margin-left: 50vh;
+    margin-top: 30vh;
+  }
+  body{
+    background-color: peru;
+  }
+
+
+#chat{
+    width: 136vh;
+    height: 10vh;
+    background-color: rgb(102, 63, 180);
+    font-size: 5vh;
+    padding-left:70vh;
+    padding-top: 5vh;
+}
+
+#messege{
+    width: 170vh;
+    height: 5vh;
+    font-size: 20px;
+    padding-left:30px;
+    color: blueviolet;
+    background-color: rgb(126, 208, 126);
+}
+
+#last{
+    width: 30vh;
+    height:5vh;
+    background-color: brown;
+}
+
+#chat2{
+    width: 100%;
+    height: 70vh;
+}
+
+#send{
+    width: 15vh;
+    height: 5vh;
+    border: 2px solid black;
+    background-color: purple;
+    color: beige;
+    font-size: 30px;
+    margin-left: 180vh;
+}
+#recive{
+    width: 15vh;
+    height: 5vh;
+    border: 2px solid black;
+    background-color: purple;
+    color: beige;
+    font-size: 30px;
+}
